@@ -1,4 +1,4 @@
-# pauseforme
+# PauseForMe
 This Chrome extension pauses YouTube videos when you leave the browser tab or switch to another application and resumes the video when you return.
 
 ## Features
